@@ -1,6 +1,7 @@
 {
-  "compilerOptions": {
-    "allowSyntheticDefaultImports": true,
+    "compilerOptions": {
+	"skipLibCheck": true,
+	"allowSyntheticDefaultImports": true,
     "composite": true,
     "declaration": true,
     "esModuleInterop": true,
